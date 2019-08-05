@@ -1,2 +1,2 @@
 # git
-This tests about git
+The test about git
